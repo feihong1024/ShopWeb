@@ -1,0 +1,37 @@
+.brands{
+	width: 1583px;
+	height: 244.02px;
+	position: relative;
+}
+.brands-content{
+	margin: 0 auto;
+	width: 1140px;
+	height: 244.02px;
+	border-top: 1px dashed #79797f;
+	border-bottom: 1px dashed #79797f;
+}
+.brandA{
+	width: 1140px;
+	height: 32px;
+	margin: 0 auto;
+	text-align: center;
+	position: relative;
+	top: 40px;
+}
+.brandA span{
+	font-size: 10px;
+	padding-bottom: 10px;
+	font-weight: 800;
+	border-bottom: 2px solid #66cef6;
+}
+.brandB{
+	width: 1140px;
+	height: 100.02px;
+	margin: 0 auto;
+	position: relative;
+	top: 70px;
+}
+.brandB img{
+	width: 224px;
+	height: 100.02px;
+}

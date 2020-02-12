@@ -1,0 +1,154 @@
+#header
+{
+	width: 100%;
+	height: 193px;
+	position: absolute;
+	/* background-color: aqua; */
+}
+/* ----------------------顶部------------------------------ */
+#up
+{
+	width: 100%;
+	height: 50px;
+	background-color: #403e72;
+	
+}
+#upBack
+{
+	width: 72%;
+	height: 50px;
+	margin: 0px auto;
+}
+#ulL{
+	list-style: none;
+	width: 450px;
+	float: left;
+	line-height: 50px;
+}
+#ulL li{
+	float: left;
+	color: white;
+	margin-left: 50px;
+	font-size: 12px;
+	margin-left: 20px;
+}
+#ulR{
+	list-style: none;
+	width: 210px;
+	float: left;
+	margin-left: 460px;
+	line-height: 50px;
+}
+#ulR li{
+	float: left;
+	color: white;
+	margin-left: 20px;
+	font-size: 12px;
+}
+#ulR li:hover{
+	color: #66cef6;
+	cursor: pointer;
+	transition: 0.1s linear;
+}
+#ulL li:hover{
+	cursor: pointer;
+}
+
+/* ----------------------------中部------------------------------ */
+
+
+#mid
+{
+	width: 100%;
+	height: 93px;
+	background-color: white;
+	position: absolute;
+	top: 50px;
+}
+#midBack
+{
+	width: 1170px;
+	height: 33px;
+	margin: 0px auto;
+	position: relative;
+	top: 30px;
+}
+#i1{
+	float: left;
+}
+#midBack ul{
+	list-style: none;
+	float: left;
+}
+#midBack li{
+	float: left;
+	margin-left: 70px;
+	line-height: 33px;
+	font-weight: 600;
+	font-size: 12px;
+}
+#midBack li:hover{
+	color: #66cef6;
+	cursor: pointer;
+	transition: 0.1s linear;
+}
+#midBack div{
+	margin-left: 990px;
+	position: relative;
+	top: 5px;
+	cursor: pointer;
+}
+#mid p{
+	color: #66cef6;
+}
+
+/* ------------------------------底部---------------------------------- */
+
+#down
+{
+	width: 100%;
+	height: 50px;
+	background-color: #2b2a2f;
+	position: absolute;
+	top: 143px;
+}
+#downBack
+{
+	width: 1140px;
+	height: 50px;
+	margin: 0px auto;
+}
+#downBackUlA{
+	float: left;
+	width: 1000px;
+	height: 46px;
+	border-top: 4px solid #2b2a2f;
+}
+#downBackUlB{
+	width: 120px;
+	display: inline-block;
+}
+#downBack li{
+	margin-left: 20px;
+	list-style: none;
+	float: left;
+	line-height: 46px;
+	color: #5f7475;
+	font-weight: 800;
+	font-size: 14px;
+}
+#downBack p{
+	border-top: 4px solid #66cef6;
+	position: relative;
+	bottom: 4px;
+}
+#downBack img{
+	float: left;
+}
+#downBack li:hover{
+	color: #66cef6;
+	cursor: pointer;
+	border-top: 4px solid #66cef6;
+	transition: 0.1s linear;
+	
+}

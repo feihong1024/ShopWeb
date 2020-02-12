@@ -1,0 +1,67 @@
+.newest{
+	position: relative;
+	height: 1046px;
+}
+.newest-content{
+	width: 1140px;
+	height: 910px;
+	position: relative;
+	top: 38px;
+	left: 222px;
+}
+.newest-content ul{
+	width: 311px;
+	height: 39px;
+	margin: 0 auto;
+	list-style: none;
+	position: relative;
+	top: 10px;
+}
+.newest-content li{
+	float: left;
+	color: #808080;
+	margin-left: 20px;
+	font-size: 10px;
+	font-weight: 800;
+}
+.newest-content li:hover{
+	cursor: pointer;
+	border-bottom: 2px solid #66cef6;
+	transition: 0.1s linear;
+}
+#FEATURED{
+	border-bottom: 2px solid #66cef6;
+}
+.myGoodContent{
+	position: relative;
+	top: 30px;
+	right:15px;
+	width: 1170px;
+	height: 826px;
+}
+.Good{
+	width: 292.5px;
+	height: 373px;
+	float: left;
+	margin-top: 10px;
+}
+.Good-fade{
+	text-align: center;
+}
+.Good-name{
+	margin: 0 auto;
+	width: 250px;
+	text-align: center;
+	font-size: 14px;
+	font-weight: 800;
+}
+.Good-name:hover{
+	cursor: pointer;
+	text-decoration: underline;
+}
+.star-1{
+	text-align: center;
+}
+.Good-price{
+	text-align: center;
+}

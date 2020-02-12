@@ -1,0 +1,56 @@
+#main-slider
+{
+	width: 1583px;
+	height: 566.55px;
+	background-image: url(../images/slider-1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: absolute;
+	top: 193px;
+}
+.wenBenBuJu{
+	width: 220px;
+	height: 250px;
+	position: absolute;
+	left: 210px;
+	top: 150px;
+}
+.wenBenBuJu span{
+	color: #66cef6;
+	font-size: 40px;
+	font-weight: 600;
+}
+.wenBenBuJu a{
+	color: white;
+	font-size: 40px;
+	font-weight: 600;
+}
+.wenBenBuJu p{
+	color: #cdced1;
+}
+.wenBenBuJu button{
+	border: 0;
+	width: 140px;
+	height: 45px;
+	color: white;
+	background-color: #66cef6;
+	cursor: pointer;
+	font-weight: 800;
+}
+#wenbenbuju{
+	left: 1150px;
+}
+#wenbenbuju span{
+	color: #f666b1;
+}
+#wenbenbuju button{
+	background-color: #f666b1;
+}
+button:hover{
+	cursor: pointer;
+	background-color: #00CED1;
+	transition: 0.3s linear;
+}
+#gunDongYeYouAnNiu:hover{
+	background-color: #C71585;
+}

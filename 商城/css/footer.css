@@ -1,0 +1,114 @@
+.footer
+{
+	width: 100%;
+	height: 328px;
+	background-color: #2b2a2f;
+	position: absolute;
+	top: 3615.57px;
+}
+#blog-footer{
+	top: 3621px;
+}
+#contact-footer{
+	top: 1768px;
+}
+.footer-widget{
+	height: 280px;
+	position: relative;
+}
+.widget-content{
+	width: 1170px;
+	height: 210px;
+	margin: 0 auto;
+	position: relative;
+	top: 40px;
+}
+.widget-content p{
+	color: white;
+	margin-top: 20px;
+	font-size: 13px;
+	font-weight: 100;
+}
+.widget-content a:hover{
+	cursor: pointer;
+	color: #66CEF6;
+	transition: 0.1 linear;
+}
+.widget-content a{
+	text-decoration: none;
+}
+#getthis:visited{
+	color: #808080;
+}
+#getthis:hover{
+	text-decoration: underline;
+}
+.modA{
+	width: 292.5px;
+	height: 201px;
+	float: left;
+}
+.modB{
+	width: 195px;
+	height: 189px;
+	float: left;
+}
+.text-widget{
+	width: 262.5px;
+	height: 210px;
+	margin: 0 auto;
+}
+.text-widget form{
+	width: 262.5px;
+	height: 95px;
+	position: relative;
+	top: 15px;
+}
+.wid-email{
+	width: 262.5px;
+	height: 40px;
+	border: 0;
+	border-radius: 5px;
+}
+.wid-but{
+	width: 262.5px;
+	height: 40px;
+	border: 0;
+	position: relative;
+	top: 15px;
+	color: white;
+	background-color: #66CEF6;
+	border-radius: 5px;
+}
+.term{
+	width: 165px;
+	height: 181px;
+	margin: 0 auto;
+}
+.wid-title{
+	font-size: 10px;
+	font-weight: 800;
+	color: #808080;
+}
+.footer-text{
+	width: 1583px;
+	height: 48px;
+	background-color: #27262b;
+	position: relative;
+}
+.textA{
+	width: 1170px;
+	height: 18px;
+	margin: 0 auto;
+	position: relative;
+	top: 15px;
+	text-align: center;
+	color: #7a797b;
+	font-size: 13px;
+}
+.textA a{
+	text-decoration: none;
+}
+.textA a:visited{
+	color: #FFFFFF;
+}
